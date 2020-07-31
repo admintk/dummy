@@ -4,4 +4,9 @@ NEW readme file added
 Learn GIT
 
 This is update from the "new" branch.
-This is after update from prob branch. 
+<<<<<<< HEAD
+This is after update from prob branch.
+=======
+
+This is un update from "prob" branch
+>>>>>>> prob
